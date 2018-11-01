@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,13 +78,13 @@
                             <li>
                                 <div class="phone">
                                     <i class="fa fa-phone"></i>
-                                    +1(800) 699-7071
+                                    +98 912 1111111
                                 </div>
                             </li>
                             <li>
                                 <div class="mail">
                                     <i class="fa fa-envelope"></i>
-                                    iam@domain.com
+                                    example@domain.com
                                 </div>
                             </li>
                         </ul>
@@ -225,7 +226,7 @@
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="slider-img wow fadeInUp">
-                                <img src="assets/images/person1.png" alt="business man">
+                                <%--<img src="assets/images/person1.png" alt="business man">--%>
                             </div>
                         </div>
                     </div>
@@ -246,7 +247,7 @@
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="slider-img wow fadeInUp">
-                                <img src="assets/images/person2.png" alt="business man">
+                                <%--<img src="assets/images/person2.png" alt="business man">--%>
                             </div>
                         </div>
                     </div>
@@ -387,7 +388,7 @@
                                         </div>
                                         <div id="collapseOne" class="panel-collapse collapse in">
                                             <div class="panel-body">
-                                                <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img">
+                                                <img class="why-choose-img" src="assets/images/testi1.png" alt="img">
                                                 <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
                                             </div>
                                         </div>
@@ -721,7 +722,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-team-member">
                                 <div class="team-member-img">
-                                    <img src="assets/images/team-member-2.png" alt="team member img">
+                                    <img src="assets/images/testi1.png" alt="team member img">
                                 </div>
                                 <div class="team-member-name">
                                     <p>John Doe</p>
@@ -740,7 +741,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-team-member">
                                 <div class="team-member-img">
-                                    <img src="assets/images/team-member-1.png" alt="team member img">
+                                    <img src="assets/images/testi1.png" alt="team member img">
                                 </div>
                                 <div class="team-member-name">
                                     <p>Bernice Neumann</p>
@@ -759,7 +760,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-team-member">
                                 <div class="team-member-img">
-                                    <img src="assets/images/team-member-3.png" alt="team member img">
+                                    <img src="assets/images/testi1.png" alt="team member img">
                                 </div>
                                 <div class="team-member-name">
                                     <p>Dvid Cameron</p>
@@ -778,7 +779,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-team-member">
                                 <div class="team-member-img">
-                                    <img src="assets/images/team-member-1.png" alt="team member img">
+                                    <img src="assets/images/testi1.png" alt="team member img">
                                 </div>
                                 <div class="team-member-name">
                                     <p>Bernice Neumann</p>
@@ -819,7 +820,7 @@
                             <!-- Start single slider -->
                             <div class="single-slider">
                                 <div class="testimonial-img">
-                                    <img src="assets/images/testi1.jpg" alt="testimonial image">
+                                    <img src="assets/images/testi1.png" alt="testimonial image">
                                 </div>
                                 <div class="testimonial-content">
                                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -829,7 +830,7 @@
                             <!-- Start single slider -->
                             <div class="single-slider">
                                 <div class="testimonial-img">
-                                    <img src="assets/images/testi3.jpg" alt="testimonial image">
+                                    <img src="assets/images/testi1.png" alt="testimonial image">
                                 </div>
                                 <div class="testimonial-content">
                                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -839,7 +840,7 @@
                             <!-- Start single slider -->
                             <div class="single-slider">
                                 <div class="testimonial-img">
-                                    <img src="assets/images/testi2.jpg" alt="testimonial image">
+                                    <img src="assets/images/testi1.png" alt="testimonial image">
                                 </div>
                                 <div class="testimonial-content">
                                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
